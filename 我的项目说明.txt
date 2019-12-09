@@ -8,3 +8,26 @@
 2、提交
      命令：git init
      命令：git status 查看状态
+     命令：git add
+     命令：git commit –m “submit one file(提交一个文件)”
+     命令：git log
+     命令：git reset –-hard 版本号
+     命令：git diff  查看同一个文件的不同版本不同之处  
+     命令：git log –pretty=oneline
+     命令：git reflog
+3.分支
+      查看分支：git branch
+      创建分支：git branch <name>
+      切换分支：git checkout <name>
+      创建+切换分支：git checkout -b <name>
+      合并某分支到当前分支：git merge <name>
+      删除分支：git branch -d <name>
+对Git的认识
+      Git是一个开源的分布式版本控制系统，用以有效、高速地处理从很小到非常大的项目版本管理。相比于其他控制工具，Git无疑更
+加优秀，功能更加强大，在项目版本管理中被越来越多的人广泛的使用。但 Git 相对来说比较难学。
+      GitHub为当前最流行的开源项目托管平台，数以万计优秀的开源项目被托管在GitHub上面。随着越来越多的应用程序转移到云上，
+Github已经成为了管理软件开发以及发现已有代码的首选方法。对于普通开发人员来讲，其在GitHub上托管的项目已经成为了他的一
+张个人名片。许多优秀的互联网公司在招聘开发人员时都希望对方能提供个人的GitHub地址。当然，GitHub作为一个开源软件的大宝
+库，学习和使用它，也会为我们的日常开发带来许多便利。
+
+
