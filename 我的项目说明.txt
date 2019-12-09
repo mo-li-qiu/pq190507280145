@@ -1,9 +1,7 @@
 数据科学与计算机学院
-软件工程19本    彭琦
+软件工程19本   彭琦
 190507280145
-对 Git的认识
-1.  配置
+1、配置
       命令：git config --global user.name "Your Name"
       命令：git config --global user.email email@example.com
       通过git config –l 查看配置情况
-
