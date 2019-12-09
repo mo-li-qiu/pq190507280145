@@ -5,3 +5,6 @@
       命令：git config --global user.name "Your Name"
       命令：git config --global user.email email@example.com
       通过git config –l 查看配置情况
+2、提交
+     命令：git init
+     命令：git status 查看状态
